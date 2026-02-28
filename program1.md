@@ -1,8 +1,8 @@
 ## 1. Create Database
 
 ```sql
-CREATE DATABASE company_db;
-USE company_db;
+CREATE DATABASE abhishek;
+USE abhisehk;
 ```
 
 ## 2. Create DEPARTMENT table
